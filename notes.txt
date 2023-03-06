@@ -1,0 +1,21 @@
+Superuser:
+    - admin
+    - lemon@789!
+
+Managers:
+    - sana
+    - lemon@789!
+
+    - arianna
+    - lemon@789!
+
+Delivery Crew:
+    - jose
+    - lemon@789!
+
+    - mario
+    - lemon@789!
+
+Customers:
+    - carlos
+    - lemon@789!
